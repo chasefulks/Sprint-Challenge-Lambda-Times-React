@@ -46,7 +46,7 @@ const Title = styled.h1`
 const Header = () => {
   return (
     <HeaderContainer>
-      <Date>OCTOBER 22, 2018</Date>
+      <Date>November 16, 2018</Date>
       <Title>Lambda Times</Title>
       <Temp>98°</Temp>
     </HeaderContainer>
